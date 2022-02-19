@@ -2,9 +2,13 @@
 
 ## 關於唯客學院：
 
-* [唯客學院網址](https://www.victorgau.com)
+* [唯客學院網址](https://www.vcdemy.com)
 * [唯客學院部落格](https://victorgau.com/blog/)
 * [高雄Python學院粉絲團](https://www.facebook.com/KHPYAcademy/)
+
+## 實作範例
+
+* [五行程式建構一個 Hello World 網站 (2020-05-04 01:09:19)](https://youtu.be/nYF3jIeq580)
 
 ## 課程內容：
 
@@ -27,7 +31,7 @@
 * 實做一個地圖網站
 * 實做一個股票線圖網站
 
-### 其他
+### 其他：
 
 #### Flask 的樣板語言
 
